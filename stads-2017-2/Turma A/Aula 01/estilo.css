@@ -1,0 +1,11 @@
+p {
+  color: red;
+  background: green;
+  font-size: 50px;
+  width: 400px;
+}
+
+body {
+  font-family: Verdana, sans-serif;
+  transition: 1s;
+}

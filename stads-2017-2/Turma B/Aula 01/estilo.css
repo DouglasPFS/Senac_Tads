@@ -1,0 +1,13 @@
+p {
+  color: red;
+  background: hsl(120, 10%, 20%);
+  transition: 1s;
+}
+
+body:hover p{
+  transform: rotate(720deg);
+}
+
+body {
+  background: rgb(255,0,255);
+}
